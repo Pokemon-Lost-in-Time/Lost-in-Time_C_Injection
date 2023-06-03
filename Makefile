@@ -21,7 +21,7 @@ endif
 default: all
 
 ROMNAME = rom.nds
-BUILDROM = plat_qol.nds
+BUILDROM = build.nds
 ####################### Tools #########################
 NDSTOOL = tools/ndstool
 ARMIPS = tools/armips

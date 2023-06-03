@@ -24,7 +24,7 @@
     bl toggleRunForSurf
 
 
-.orga 0x13CD0
+.orga 0x14000
 
 // r1 is sys.trg
 // r5 is PAD_BUTTON_A
